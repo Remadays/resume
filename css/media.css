@@ -39,6 +39,7 @@
     }
     .sidebar-section img {
         margin-left: 40px;
+        width: calc(100vw - 80px);
     }
 }
 
