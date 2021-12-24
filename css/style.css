@@ -52,53 +52,12 @@ body {
     color: #595959;
     
 }
-/* My projects section */ 
-.my-projects-section {
-    margin-bottom: 50px;
-}
-.my-projects-list{
-    padding: 0 0 0 17px;
-    font-style: normal;
-    font-weight: bold;
-    font-size: 14px;
-    line-height: 24px;
-    color: #000000;
-}
-.my-projects-item{
-    font-style: normal;
-    font-weight: bold;
-    font-size: 14px;
-    line-height: 24px;
-    color: #000000
-}
-.my-projects-text{
-    font-style: normal;
-    font-weight: normal;
-    font-size: 14px;
-    line-height: 24px;
-    color: #595959;
-    margin-left: 5px;
-}
-.my-projects-link{
-    font-style: normal;
-    font-weight: normal;
-    font-size: 14px;
-    line-height: 24px;
-    color: #595959;
-}
-.my-projects-bracket{
-    font-style: normal;
-    font-weight: bold;
-    font-size: 14px;
-    line-height: 24px;
-    color: #000000;
-}
-/* My work expirience section */
-.my-work-expirience-company-block{
+/* My work experience section */
+.my-work-experience-company-block{
     margin: 0  0 15px 0;
     width: 525px;
 }
-.my-work-expirience-position{
+.my-work-experience-position{
     font-style: normal;
     font-weight: bold;
     font-size: 16px;
@@ -106,10 +65,10 @@ body {
     color: #000000;
     margin: 0 0 10px 0;
 }
-.my-work-expirience-company{
+.my-work-experience-company{
     color: #FB6D3A;
 }
-.my-work-expirience-period{
+.my-work-experience-period{
     font-style: normal;
     font-weight: normal;
     font-size: 12px;
@@ -117,17 +76,17 @@ body {
     color: #A8A8A8;
     margin: 0 0 10px 0;
 }
-.my-work-expirience-period-divider{
+.my-work-experience-period-divider{
     font-style: normal;
     font-weight: normal;
     font-size: 12px;
     line-height: 15px;
     color: #000000;
 }
-.my-work-expirience-duties{
+.my-work-experience-duties{
     padding: 0 0 0 18px;
 }
-.my-work-expirience-duty{
+.my-work-experience-duty{
     font-style: normal;
     font-weight: normal;
     font-size: 14px;
