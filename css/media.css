@@ -34,6 +34,11 @@
 
 /* mobile */
 @media (max-width: 767px) {
+
+.my-work-experience-company-block{
+    width: auto;
+}
+
     .my-projects-technology{
       display: block;  
     }
