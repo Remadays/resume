@@ -42,6 +42,7 @@ QA leader with 8+ years in software quality, test automation and team management
 - Perform API testing (functionality, reliability, response contracts) alongside UI testing.
 - Test hardware-dependent features: smart lock systems and key boxes, payment terminals, POS touch devices, self-service kiosks and ID document scanners.
 - Run functional, regression, cross-browser, mobile and PWA, localization and performance testing.
+- Own **localization of the platform** - 14 languages across a dozen product components (PMS, CRM, API, guest apps, invoicing, self-service), including the shared terminology glossary.
 - Lead QA for fiscal and legal compliance across markets - VAT logic, visitor and local taxes, country-specific reporting and invoicing rules (CZ, SK, PL, RO, HU).
 - Cover the full product surface: reservations and the new reservation detail, pricing and rate plans, invoicing and payments, folio, CRM and sales, offers, communication and marketing campaigns, reports, housekeeping, door locks, the booking engine (R+) and the shared front-end design system.
 - Lead a team of 7 testers: work allocation across product areas, interviews, onboarding, mentoring and training.
@@ -86,7 +87,7 @@ QA leader with 8+ years in software quality, test automation and team management
 
 **Domain:** hospitality & PMS, reservations, channel manager, pricing and rate plans, invoicing, VAT and fiscalization, payment gateways and terminals, CRM, guest self-service
 
-**Leadership:** release management, QA process design, hiring and onboarding, mentoring, cross-team and cross-border communication
+**Leadership:** release management, localization management, QA process design, hiring and onboarding, mentoring, cross-team and cross-border communication
 
 ---
 
