@@ -256,12 +256,12 @@ img { max-width: 100%; }
 .duties li::before {
   content: "";
   position: absolute;
-  left: 2px;
-  top: 0.6em;
-  width: 7px;
-  height: 7px;
-  border: 1.5px solid var(--signal);
-  border-radius: 2px;
+  left: 0;
+  top: 0.78em;
+  width: 11px;
+  height: 2px;
+  background: var(--signal);
+  border-radius: 1px;
 }
 
 .duties li strong { color: var(--ink); font-weight: 600; }
