@@ -18,7 +18,7 @@ QA leader with 8+ years in software quality, test automation and team management
 - **2,000+ delivered changes verified** as the assigned tester since 2023 - 995 features, 926 bugs and 133 tech-debt items across 50 product modules; 775 in 2025 alone (~3 per working day), 533 of them at Urgent or Immediate priority.
 - **950+ defect and QA reports authored**, including cross-module regression, localization and fiscal-compliance findings, with reproducible steps and evidence standards adopted as the team's bug-reporting convention.
 - **Introduced end-to-end automation with Cypress** and grew it from zero into the platform's regression safety net - guest self check-in (Alfred PWA), booking-engine link/code generator, hotel administration (documents, licences, monthly fees, reports), guest database, invoicing, pricing and SSO/device-ID login.
-- **Designed the continuous-delivery flow for the new admin (P2)**: release roadmap, Redmine status workflow, versioning and release management, progress dashboard, and test planning across VHost / Staging / Production environments.
+- **Designed the continuous-delivery flow for the new admin (P2)**: release roadmap, Redmine status workflow, versioning and release management, progress dashboard, and test planning across VHost / Dev / Staging / Production / Demo environments.
 - **Runs the release cycle for the legacy platform (P1)**: long-term release planning, deployment checklists, deployment-timeline communication with international teams, post-mortems and retrospectives.
 - **Leads a 7-person QA team** - hiring interviews, onboarding, mentoring and QA documentation standards; organised internal JavaScript upskilling for the department.
 
@@ -33,7 +33,7 @@ QA leader with 8+ years in software quality, test automation and team management
 - Plan and run the P1 release cycle: long-term release planning, deployment checklists, and coordination of deployment timelines with international development teams.
 - Facilitate post-mortems and retrospectives after releases and production incidents; turn findings into process changes.
 - Own the continuous-delivery roadmap for P2: define the Redmine status flow, manage versions and releases, and maintain the dashboard used to track delivery progress.
-- Plan what is tested on which environment (VHost, Staging, Production) and gate releases on that coverage.
+- Plan what is tested on which environment (VHost, Dev, Staging, Production, Demo) and gate releases on that coverage.
 
 **Lead QA Engineer / QA Manager** · Mar 2023 - Present
 
@@ -113,12 +113,12 @@ QA leader with 8+ years in software quality, test automation and team management
 
 ## Languages
 
-Ukrainian (native) · Czech (professional) · English (professional) · Russian (professional) · German (basic) · Spanish (basic)
+Ukrainian (native) · Czech (professional) · English (professional) · German (basic) · Spanish (basic)
 
 ---
 
 ## Volunteering
 
 - **People in Need** - member of the Friends Club, since 2021
-- **Prague Congress Centre** - translator for Ukrainian refugees (EN/CZ/UA/RU), Feb-Apr 2022
+- **Prague Congress Centre** - translator for Ukrainian refugees (EN/CZ/UA), Feb-Apr 2022
 - **Women for Women International** - school-meals programme, since 2023
